@@ -1,0 +1,13 @@
+This program is designed to be a normal integer caluclator. 
+It can only do simple functions for now (only +, -, *, and /).
+It should ask for the operation and then ask for 2 numbers, and then run the operation. 
+It will keep on running until the user tells it to stop, by typing N when prompted.
+
+There are multiple ways to run this.
+The easiest might be to just open it with a Python editor, like Microsoft Visual Studio, and run it from there.
+You can also download Python from www.python.org and run it using that, although you have to be aware of where you downloaded it.
+For me it downloaded in C:\Users\*MyUserName*\AppData\Local\Programs\Python\Python38
+Open the .py file with the python.exe that you downloaded and it should work.
+
+The goal for me for this project was to get a basic understanding of Python because I have never used it before.
+I think I got a basic understanding of the syntax and basic techniques like if/else, error catching, creating functions and using tabs to group code (which was a little weird).
