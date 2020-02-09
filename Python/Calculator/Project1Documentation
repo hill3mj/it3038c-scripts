@@ -4,7 +4,7 @@ It should ask for the operation and then ask for 2 numbers, and then run the ope
 It will keep on running until the user tells it to stop, by typing N when prompted.
 
 There are multiple ways to run this.
-The easiest might be to just open it with a Python editor, like Microsoft Visual Studio, and run it from there.
+The easiest might be to open Microsoft Visual Studio and copy the text in Calculator.py into a new python project.
 You can also download Python from www.python.org and run it using that, although you have to be aware of where you downloaded it.
 For me it downloaded in C:\Users\*MyUserName*\AppData\Local\Programs\Python\Python38
 Open the .py file with the python.exe that you downloaded and it should work.
