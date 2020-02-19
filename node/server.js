@@ -44,7 +44,7 @@ var server = http.createServer(function(req, res){
     }
 
     else{
-        res.writehead(404, {"Content-Type": "text/plain"})
+        res.writeHead(404, {"Content-Type": "text/plain"})
         res.end(`404 File Not Found at ${req.url}`)
 
     }
