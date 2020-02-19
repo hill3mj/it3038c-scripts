@@ -1,1 +1,2 @@
-# it3038c-scripts
+```javascript
+Javascript code block to highlight whats up in my code
