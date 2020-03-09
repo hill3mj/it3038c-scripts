@@ -5,7 +5,7 @@ This program is designed to be a normal two number caluclator.
 It can only do simple functions for now (only +, -, *, /, and ^).
 
 ### Summary
-This project will be a GUI made from tkinter with a box for the first number, operator, and second number.
+This project will be a GUI made from tkinter with a text box for the first number, operator, and second number.
 After you put in your numbers and operator, you then clock the Calculate button.
 The math function and awnser will then be placed in a label below the button.
 There is error checking for divide by zero, and bad input for the numbers and operator.
