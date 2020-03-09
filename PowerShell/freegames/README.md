@@ -9,7 +9,7 @@ You need to have pip and Python installed to use this plugin.
 ### Usage
 To install, type in PowerShell:
 ``` powershell
-python -m pip install freegames
+pip install freegames
 ```
 
 There are many different games available to play. To view to full list tpye in PowerShell:
